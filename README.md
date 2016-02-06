@@ -1,5 +1,6 @@
 # motion-settings
-[![Gem Version](https://badge.fury.io/rb/motion-settings.svg)](http://badge.fury.io/rb/motion-settings)
+[![Gem Version](https://badge.fury.io/rb/motion-settings.svg)](http://badge.fury.io/rb/motion-settings) 
+[![Build Status](https://travis-ci.org/andrewhavens/motion-settings.svg?branch=master)](https://travis-ci.org/andrewhavens/motion-settings)
 
 Easily store and retrieve your user's preferences and settings using `NSUserDefaults`.
 
