@@ -10,7 +10,7 @@ Note that `NSUserDefaults` is not designed for secure data storage (passwords, t
 
 Add this line to your application's `Gemfile`:
 
-    gem 'motion-settings', github: 'andrewhavens/motion-settings'
+    gem 'motion-settings', '~> 1.0.0'
 
 And then execute:
 
